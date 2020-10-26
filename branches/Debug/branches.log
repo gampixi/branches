@@ -1,0 +1,3 @@
+﻿  branches.cpp
+r:\projects\branches\branches\branches.cpp(221): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  branches.vcxproj -> R:\Projects\branches\Debug\branches.exe
